@@ -3,7 +3,6 @@ package com.bootcamp3.contactbook.services;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
-
 import com.bootcamp3.contactbook.entities.ContactEntity;
 import com.bootcamp3.contactbook.models.ContactDto;
 import com.bootcamp3.contactbook.repositories.ContactRepository;

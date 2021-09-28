@@ -2,7 +2,6 @@ package com.bootcamp3.contactbook.controllers;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import com.bootcamp3.contactbook.models.ContactDto;
 import com.bootcamp3.contactbook.models.ResponseEnvelope;
 import com.bootcamp3.contactbook.services.ContactService;
